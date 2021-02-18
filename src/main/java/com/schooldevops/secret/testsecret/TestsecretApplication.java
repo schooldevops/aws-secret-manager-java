@@ -11,7 +11,6 @@ public class TestsecretApplication {
 		SpringApplication app = new SpringApplication(TestsecretApplication.class);
 		app.addListeners(new PropertyListener());
 		app.run(args);
-//		SpringApplication.run(TestsecretApplication.class, args);
 	}
 
 }

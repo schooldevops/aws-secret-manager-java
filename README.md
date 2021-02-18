@@ -19,3 +19,8 @@ aws configure
 
 ## AWS 콘솔 이용하여 secret manager 로 시크릿 저장하기. 
 
+AWS Console > AWS Secret Manager > 보안암호 
+
+`새 보안 암호 저장` 를 선택한다. 
+
+
